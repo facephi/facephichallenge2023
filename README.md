@@ -15,7 +15,7 @@ Desde facephi lanzamos la segunda edición del facephi Challenge, un reto en el 
 ¡Por supuesto! El equipo ganador y los finalistas serán XXXXXX <br />
 
 #### **¿Cómo me inscribo?**
-Simplemente tendrás que rellenar el siguiente formulario XXXXXXX con los datos de los miembros del equipo, recuerda que podréis incribiros aunque el reto ya haya comenzado[^2].
+Simplemente tendrás que rellenar el siguiente [formulario](https://forms.office.com/e/n6JHGBkSnT "Formulario inscripción facephi Challenge") con los datos de los miembros del equipo, recuerda que podréis incribiros aunque el reto ya haya comenzado[^2].
 <br />
 Para cualquier duda relacionada con el Challenge, no dudes en ponerte en contacto con nosotros a través del correo facephichallenge2023@facephi.com <br />
 
