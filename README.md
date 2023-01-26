@@ -7,7 +7,7 @@ Desde facephi lanzamos la segunda edición del facephi Challenge, un reto en el 
 * El Challenge está abierto a **equipos de 1 a 3 personas**
 * El reto tendrá una **duración de 10 días**, desde el 9 de febrero hasta el 19 de febrero a las 23:59 h
 * Las **inscripciones** estarán **abiertas hasta el 19 de febrero**, por lo que los participantes podrán inscribirse incluso cuando el reto ya haya comenzado
-* La información del reto se **presentará** el día **9 de febrero a las 11 h**
+* La información del reto se **presentará** el día **9 de febrero a las 11 h**, podrás unirte a través de este [enlace](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTMwNzc2YWQtM2YyNy00OWNiLTk0ZjYtMWI2MGM3OTU0MzJj%40thread.v2/0?context=%7b%22Tid%22%3a%2223796e52-2e6f-449e-9041-f21bfc7b4574%22%2c%22Oid%22%3a%224215d6f6-0bda-404e-b682-c807c45a6519%22%7d "Facephi Challenge 2023")
 * Una vez presentado el reto se enviará toda la información necesaria por correo a los participantes inscritos
 * Durante los 10 días de trabajo del reto los participantes tendrán a su disposición un sistema de **consulta de expertos** de facephi a través del correo facephichallenge2023@facephi.com
 
@@ -18,7 +18,7 @@ Existen 3 categorías en las que los equipos podrán salir ganadores, y estas so
 * Solución más innovadora
 * Solución mejor rendimiento
 
-Pero no es solo eso, los equipos más creativos y con mejores propuestas tendrán la posibilidad de desarrollar una carrera profesional **¡y formar parte del Facephi Team!** <br />
+Existe la posibilidad de que un equipo gane las 3 categorías, por lo que recibiría el premio íntegro de 450€. Pero no es solo eso, los equipos más creativos y con mejores propuestas tendrán la posibilidad de desarrollar una carrera profesional **¡y formar parte del Facephi Team!** <br />
 El día 24 de febrero se anunciará al equipo ganador, siendo la entrega de premios el 1 de marzo en el acto de clausura del Mes Cultural en la Universidad de Alicante.
 
 #### **¿Cómo me inscribo?**
