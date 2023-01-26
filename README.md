@@ -16,13 +16,13 @@ Desde Facephi lanzamos la segunda edición del Facephi Challenge, un reto en el 
 Existen 3 categorías en las que los equipos podrán salir ganadores, y estas son:  
 * Solución más ligera
 * Solución más innovadora
-* Solución mejor rendimiento
+* Solución con mejor rendimiento
 
 Existe la posibilidad de que un equipo gane las 3 categorías, por lo que recibiría el premio íntegro de 450€. Pero no es solo eso, los equipos más creativos y con mejores propuestas tendrán la posibilidad de desarrollar una carrera profesional **¡y formar parte del Facephi Team!** <br />
 El día 24 de febrero se anunciará al equipo ganador, siendo la entrega de premios el 1 de marzo en el acto de clausura del Mes Cultural en la Universidad de Alicante.
 
 #### **¿Cómo me inscribo?**
-Simplemente tendrás que rellenar el siguiente [formulario](https://forms.office.com/e/n6JHGBkSnT "Formulario inscripción Facephi Challenge") con los datos de los miembros del equipo, recuerda que podréis incribiros aunque el reto ya haya comenzado[^2].
+Simplemente tendrás que rellenar el siguiente [formulario](https://forms.office.com/e/n6JHGBkSnT "Formulario inscripción Facephi Challenge") con los datos de los miembros del equipo, recuerda que podréis incribiros aunque el reto ya haya comenzado[^2]. Además, para considerar válida la inscripción, de cada participante, es obligatorio rellenar, firmar y enviar al correo facephichallenge2023@facephi.com el documento de consentimiento de participación.
 <br />
 Para cualquier duda relacionada con el Challenge, no dudes en ponerte en contacto con nosotros a través del correo facephichallenge2023@facephi.com <br />
 
