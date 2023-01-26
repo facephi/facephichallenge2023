@@ -1,4 +1,4 @@
-# ¡Bienvenidos al repositorio del facephi Challenge 2023!
+# ¡Bienvenidos al repositorio del Facephi Challenge 2023!
 
 Desde facephi lanzamos la segunda edición del facephi Challenge, un reto en el que se pondrá a prueba a los participantes para demostrar sus habilidades de razonamiento, codificación e innovación. El reto que traemos para esta edición estará centrado en uno de los procesos habituales que se llevan a cabo durante el OnBoarding Digital. Si te interesa conocer más sobre este tema, ¡este es tu reto!
 <br />
